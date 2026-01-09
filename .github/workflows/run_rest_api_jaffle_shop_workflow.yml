@@ -1,7 +1,7 @@
 name: Run rest_api_jaffle_shop pipeline from jaffle_api_source.py
 'on':
   schedule:
-  - cron: '*/30 * * * *'
+  - cron: '0 0 * * *'
   workflow_dispatch: null
 env:
   EXTRACT__WORKERS: '5'

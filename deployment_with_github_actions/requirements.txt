@@ -1,0 +1,4 @@
+dlt[duckdb]>=1.20.0
+numpy=2.4.0
+pandas=2.3.3
+dlt[cli]

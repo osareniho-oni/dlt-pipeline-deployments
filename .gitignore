@@ -1,0 +1,5 @@
+.dlt/
+__pycache__/
+.env
+*.pyc
+*.db
